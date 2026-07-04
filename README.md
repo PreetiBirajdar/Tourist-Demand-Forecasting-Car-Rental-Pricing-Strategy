@@ -16,9 +16,9 @@ This project addresses the need to forecast tourist demand and evaluate pricing 
 - Present findings through an interactive Tableau dashboard
 
 ## Tools Used
-- **SQL** – Data extraction, aggregation, and analysis
-- **Excel** – Data cleaning, validation, and preparation
-- **Tableau** – Dashboard development, forecasting visuals, and insight communication
+- **Excel** – Initial data review, cleaning, validation, and preparation
+- **SQL** – Advanced analysis using joins, CTEs, window functions, ranking, segmentation, and pricing opportunity logic
+- **Tableau** – Dashboard design, demand trend visualization, pricing analysis, and storytelling
 
 ## Dashboard Preview
 Dashboard screenshot will be added here.
