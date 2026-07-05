@@ -80,7 +80,7 @@ SQL file: `sql/tourist_demand_car_rental_analysis.sql`
 
 ### SQLite Data Preview
 
-![SQLite Data Preview Screenshot](screenshots/sqlite_data_preview.png)
+![SQLite Data Preview Screenshot](screenshots/screenshots/sqlite_data_preview.png)
 
 ## Dashboard Preview
 
